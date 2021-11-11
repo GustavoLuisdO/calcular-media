@@ -1,3 +1,2 @@
 # calcular-media
-Calcular a média de três números
-https://gustavoluisdo.github.io/calcular-media/
+clique [aqui](https://gustavoluisdo.github.io/calcular-media/) para calcular a média de três números
